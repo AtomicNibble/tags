@@ -5,7 +5,7 @@ import (
 	"database/sql/driver"
 	"testing"
 
-	"github.com/gobuffalo/tags/v3"
+	"github.com/AtomicNibble/tags/v3"
 	"github.com/stretchr/testify/require"
 )
 

@@ -1,4 +1,4 @@
-module github.com/gobuffalo/tags/v3
+module github.com/AtomicNibble/tags/v3
 
 go 1.13
 

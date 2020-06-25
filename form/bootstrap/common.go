@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/gobuffalo/flect"
-	"github.com/gobuffalo/tags/v3"
+	"github.com/AtomicNibble/tags/v3"
 )
 
 func buildOptions(opts tags.Options, err bool) {

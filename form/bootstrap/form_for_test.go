@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gobuffalo/tags/v3"
+	"github.com/AtomicNibble/tags/v3"
 	"github.com/gobuffalo/validate/v3"
 	"github.com/stretchr/testify/require"
 )
